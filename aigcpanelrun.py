@@ -1,0 +1,2 @@
+import aigcpanelapp
+aigcpanelapp.run()
